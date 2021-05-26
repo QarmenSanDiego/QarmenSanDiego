@@ -1,4 +1,4 @@
-- ⌖ Hola, I’m @QarmenSanDiego. 
+- ⌖ Bonjour, I’m @QarmenSanDiego. 
 - ⌖ How to reach me Qarmen.SanDiego@gmail.com.
 
 <!---
