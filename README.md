@@ -1,5 +1,5 @@
 - ⌖ Bonjour, I’m @QarmenSanDiego. 
-- ⌖ How to reach me Qarmen.SanDiego@gmail.com.
+- ⌖ How to reach me: Qarmen.SanDiego@gmail.com.
 
 <!---
 QarmenSanDiego/QarmenSanDiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
